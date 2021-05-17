@@ -15,7 +15,7 @@ variables:
   webAppName: 'nodejs-practice'
 
   # Environment name
-  environmentName: 'nodejs-practice'
+  # environmentName: 'nodejs-practice'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
