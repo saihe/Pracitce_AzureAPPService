@@ -12,10 +12,10 @@ variables:
   azureSubscription: 'a4031dc8-edc6-461c-b028-4a900dfb175c'
 
   # Web app name
-  webAppName: 'lbnsaito'
+  webAppName: 'nodejs-practice'
 
   # Environment name
-  environmentName: 'lbnsaito'
+  environmentName: 'nodejs-practice'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
