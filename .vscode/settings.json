@@ -4,5 +4,5 @@
     ".vscode{,/**}"
   ],
   "appService.deploySubpath": ".",
-  "appService.defaultWebAppToDeploy": "/subscriptions/08bb844f-e121-4ec4-966e-4e33371d0ff4/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/nodejs-practice"
+  "appService.defaultWebAppToDeploy": "/subscriptions/08bb844f-e121-4ec4-966e-4e33371d0ff4/resourceGroups/practice/providers/Microsoft.Web/sites/nodejs-practice"
 }
